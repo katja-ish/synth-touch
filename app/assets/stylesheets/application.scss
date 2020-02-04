@@ -21,13 +21,13 @@
 }
 
 body {
-  font-family: 'Figgins Sans';
+  font-family: "Figgins Sans";
   text-transform: uppercase;
   font-weight: medium;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background: #fff;
-  background-image: asset_url('snow.jpg');
+  background-image: asset_url("snow.jpg");
   background-size: cover;
   color: #000;
 
